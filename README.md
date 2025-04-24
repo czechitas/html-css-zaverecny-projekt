@@ -244,7 +244,7 @@ Takto vypadají celé stránky v jednotlivých responzivních rozloženích.
 
 ### Tablet
 
-![Ukázka výsledku pro tablet](ukazka-vysledku-mobil.png)
+![Ukázka výsledku pro tablet](ukazka-vysledku-tablet.png)
 
 ### Desktop
 
